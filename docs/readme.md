@@ -2,11 +2,11 @@
 
 # 📚 SMPES Documentation
 
-### Official Documentation Index
+### Official Documentation Hub
 
-Welcome to the official documentation for **SMPES**.
+Welcome to the official documentation of **SMPES**.
 
-This section contains every document related to the project, gameplay systems and server information.
+This directory contains detailed documentation about the plugin's gameplay systems and internal architecture.
 
 ---
 
@@ -19,71 +19,54 @@ This section contains every document related to the project, gameplay systems an
 
 # 📖 Table of Contents
 
-## 🌍 General Information
+## 🎮 Gameplay
 
 | Document | Description |
 |-----------|-------------|
-| 📜 [Rules](rules.md) | Official server rules and player guidelines. |
-| 📖 [Wiki](wiki.md) | General information about SMPES. |
-| ❓ [FAQ](faq.md) | Frequently Asked Questions. |
+| 📖 [Wiki](wiki.md) | General overview of SMPES. |
+| ⚔️ [Classes](classes.md) | Complete class system documentation. |
+| 🛡️ [Legendary Weapons](weapons.md) | Weapons, abilities and progression. |
+| 🎒 [Custom Items](items.md) | Exclusive custom items. |
+| 🏰 [Clans](clans.md) | Clan creation and management. |
 
 ---
 
-## ⚔️ Gameplay
+## 💻 Development
 
 | Document | Description |
 |-----------|-------------|
-| ⚔️ [Classes](classes.md) | Playable classes and their abilities. |
-| 🛡️ [Legendary Weapons](weapons.md) | Legendary weapons and progression. |
-| 🎒 [Custom Items](items.md) | Exclusive items available in SMPES. |
-| 🏰 [Clans](clans.md) | Clan creation and management system. |
+| 🏗️ [Architecture](architecture.md) | Project architecture and internal structure. |
 
 ---
 
-## 🔧 Development
+# 🚀 Quick Links
 
-| Document | Description |
-|-----------|-------------|
-| 📦 [Changelog](changelog.md) | Version history and major changes. |
-| 🛣️ [Roadmap](roadmap.md) | Planned features and future development. |
-| 🏗️ [Architecture](architecture.md) | Internal project architecture. |
+| Resource | Link |
+|----------|------|
+| 🏠 Main Repository | [README.md](../README.md) |
+| 📦 Releases | GitHub Releases |
+| 🐞 Issues | GitHub Issues |
+| 🔀 Pull Requests | GitHub Pull Requests |
 
 ---
 
-# 📊 Documentation Status
+# 📊 Documentation Progress
 
 | Section | Status |
 |----------|:------:|
-| 🌍 General Information | 🟡 In Progress |
-| ⚔️ Gameplay | 🟡 In Progress |
-| 🔧 Development | 🟡 In Progress |
-
----
-
-# 🚀 Quick Access
-
-| Repository | Documentation | Releases |
-|------------|---------------|----------|
-| 📂 [Repository](../README.md) | 📚 You are here | 📦 Coming Soon |
-
----
-
-# ❤️ Maintained by
-
-<div align="center">
-
-**SpectroDinner DEV**
-
-Official documentation for the **SMPES** project.
-
-</div>
+| 📖 Wiki | 🟡 In Progress |
+| ⚔️ Classes | 🟡 In Progress |
+| 🛡️ Weapons | 🟡 In Progress |
+| 🎒 Custom Items | 🟡 Planned |
+| 🏰 Clans | 🟡 In Progress |
+| 🏗️ Architecture | 🟡 Planned |
 
 ---
 
 <div align="center">
 
-### 📖 Happy Reading!
+**Maintained by SpectroDinner DEV**
 
-<sub>Last updated alongside the latest project changes.</sub>
+<sub>Official documentation for the SMPES project.</sub>
 
 </div>
