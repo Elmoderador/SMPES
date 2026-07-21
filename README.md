@@ -1,45 +1,82 @@
 <!-- ========================================================= -->
-<!-- ======================= SMPES ============================ -->
+<!--                         SMPES                             -->
+<!--                  Official Minecraft Plugin                -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<!-- Banner -->
+<!-- ========================================================= -->
+<!-- Banner (Coming Soon)                                      -->
+<!-- Replace with: ./assets/banner.png                         -->
+<!-- ========================================================= -->
 
-<img src="./assets/banner.png" alt="SMPES Banner">
+<img src="./assets/banner.png" alt="SMPES Banner"/>
 
 <br><br>
 
-<img src="./assets/logo.png" width="180">
+<!-- ========================================================= -->
+<!-- Logo (Coming Soon)                                        -->
+<!-- Replace with: ./assets/logo.png                           -->
+<!-- ========================================================= -->
 
-# SMPES
+<img src="./assets/logo.png" width="170">
+
+# ⚔️ SMPES
 
 ### Official Minecraft Plugin
 
 Developed by **SpectroDinner DEV**
 
-> A custom survival experience built from scratch.
+> *A custom survival experience built from scratch.*
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=2000&center=true&vCenter=true&width=900&lines=Official+Minecraft+Plugin;Private+Invite+Only+SMP;Custom+Gameplay;Open+Source+After+Each+Season;Developed+with+Paper+API">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1800&color=58A6FF&center=true&vCenter=true&width=950&lines=Official+Minecraft+Plugin;Private+Invite+Only+SMP;Built+with+Paper+API;Open+Source+After+Each+Season;Designed+for+Long-Term+Gameplay">
 
 <br>
 
-<img src="https://img.shields.io/badge/Minecraft-1.21+-brightgreen?style=for-the-badge">
-<img src="https://img.shields.io/badge/Java-21-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Paper-API-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Season-T1-success?style=for-the-badge">
+<!-- ========================================================= -->
+<!-- Static Badges                                             -->
+<!-- ========================================================= -->
+
+<img src="https://img.shields.io/badge/Minecraft-1.21+-5CB85C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Java-21-E76F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Paper-API-2D9CDB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Season-1-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Status-Private-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Access-Invite%20Only-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Open%20Source-After%20Season%201-6f42c1?style=for-the-badge">
 <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge">
 
-<!-- Dynamic badges -->
+<br>
+
+<!-- ========================================================= -->
+<!-- Dynamic Badges                                            -->
+<!-- Uncomment after first release                             -->
+<!-- ========================================================= -->
 
 <!--
-<img src="https://img.shields.io/github/stars/YOUR_USER/SMPES?style=for-the-badge">
-<img src="https://img.shields.io/github/forks/YOUR_USER/SMPES?style=for-the-badge">
-<img src="https://img.shields.io/github/downloads/YOUR_USER/SMPES/total?style=for-the-badge">
-<img src="https://img.shields.io/github/v/release/YOUR_USER/SMPES?style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/Elmoderador/SMPES?style=for-the-badge">
+
+<img src="https://img.shields.io/github/forks/Elmoderador/SMPES?style=for-the-badge">
+
+<img src="https://img.shields.io/github/watchers/Elmoderador/SMPES?style=for-the-badge">
+
+<img src="https://img.shields.io/github/issues/Elmoderador/SMPES?style=for-the-badge">
+
+<img src="https://img.shields.io/github/issues-pr/Elmoderador/SMPES?style=for-the-badge">
+
+<img src="https://img.shields.io/github/last-commit/Elmoderador/SMPES?style=for-the-badge">
+
+<img src="https://img.shields.io/github/commit-activity/m/Elmoderador/SMPES?style=for-the-badge">
+
+<img src="https://img.shields.io/github/release-date/Elmoderador/SMPES?style=for-the-badge">
+
+<img src="https://img.shields.io/github/v/release/Elmoderador/SMPES?style=for-the-badge">
+
+<img src="https://img.shields.io/github/downloads/Elmoderador/SMPES/total?style=for-the-badge">
+
 -->
 
 </div>
@@ -48,98 +85,122 @@ Developed by **SpectroDinner DEV**
 
 # 📖 Table of Contents
 
-- [About](#-about)
-- [Project Philosophy](#-project-philosophy)
-- [Private Seasons](#-private-seasons)
-- [Project Goals](#-project-goals)
-- [Feature Overview](#-feature-overview)
-- [Project Status](#-project-status)
-- [Gallery](#-gallery)
-- [Gameplay Preview](#-gameplay-preview)
-- [Documentation](#-documentation)
-- [Releases](#-releases)
-- [Contributing](#-contributing)
-- [FAQ](#-faq)
-- [License](#-license)
+- [📖 About](#-about)
+- [🌍 Seasons](#-seasons)
+- [🎯 Project Goals](#-project-goals)
+- [⭐ Project Philosophy](#-project-philosophy)
+- [📊 Technical Overview](#-technical-overview)
+- [✨ Features](#-features)
+- [📸 Gallery](#-gallery)
+- [🎥 Gameplay](#-gameplay)
+- [📚 Documentation](#-documentation)
+- [📦 Releases](#-releases)
+- [🤝 Contributing](#-contributing)
+- [❓ FAQ](#-faq)
+- [📜 License](#-license)
 
 ---
 
 # 📖 About
 
-**SMPES** is a custom Minecraft plugin developed from scratch for the private SMP of the same name.
+SMPES is the official plugin powering the private Minecraft server of the same name.
 
-Rather than extending vanilla with dozens of unrelated mechanics, SMPES focuses on creating a cohesive gameplay experience where every system is designed to work together.
+Rather than relying on dozens of unrelated plugins, SMPES is built around a single goal:
 
-The project is built around long-term progression, balanced gameplay and maintainable code.
+> **Create a polished, balanced and unique survival experience.**
 
-Every mechanic is created specifically for SMPES instead of relying on large collections of third-party plugins.
+Every mechanic is designed specifically for the server, ensuring consistency across gameplay while remaining easy to maintain and expand.
+
+The project is developed entirely by **SpectroDinner DEV** and will gradually become fully open source as each season concludes.
 
 ---
 
-# 🌍 Private Seasons
+# 🌍 Seasons
 
-Unlike traditional public servers, SMPES is developed through **private seasons**.
+Unlike traditional public Minecraft servers, SMPES is developed through **private seasons**.
 
-Each season introduces new mechanics, gameplay improvements and balance changes before the source code is released publicly.
+Each season introduces new mechanics, balancing changes and improvements before the source code is published.
 
 ## 🔒 Invite Only
 
-Every season runs on a **private Minecraft SMP**.
+Every season runs on a private Minecraft SMP.
 
-Players cannot join freely.
+Joining is **not public**.
 
-Access is granted **only by invitation**.
+Players participate exclusively through invitations.
 
-This allows development to remain focused while collecting high-quality feedback from a small community.
+This allows:
+
+- Better gameplay balancing.
+- Controlled testing.
+- High-quality feedback.
+- A stronger community.
 
 ---
 
 ## 📦 Open Source
 
-Although every season is private, the project itself is not.
+Although the gameplay experience is private, the project itself is intended to become fully open source.
 
-At the end of each season:
+At the end of every season:
 
-- Source code becomes public.
-- Documentation is updated.
-- Releases are published.
-- Development begins for the next season.
-
-This development model keeps the gameplay exclusive while allowing the community to learn from and contribute to the project over time.
+- 📂 Source code is published.
+- 📦 Releases are created.
+- 📚 Documentation is updated.
+- 🚀 Development begins for the next season.
 
 ---
 
 # 🎯 Project Goals
 
-- Build a polished Minecraft experience.
+- Deliver a polished survival experience.
 - Keep gameplay balanced.
+- Build maintainable software.
 - Prioritize quality over quantity.
-- Maintain clean and scalable code.
-- Publish high-quality open-source software.
-- Provide clear and complete documentation.
+- Publish clean open-source code.
+- Provide complete documentation.
 
 ---
 
 # ⭐ Project Philosophy
 
-SMPES is not intended to become another "kitchen sink" plugin.
-
-Instead, every feature must satisfy three requirements:
+Every feature added to SMPES must satisfy three simple rules:
 
 - Improve gameplay.
-- Fit naturally into the existing systems.
-- Maintain simplicity for players.
+- Integrate naturally with existing systems.
+- Be worth maintaining long-term.
 
-Features that do not support these goals are intentionally left out.
+If a feature does not satisfy these requirements, it simply doesn't belong in the project.
 
 ---
 
-<div align="center">
+# 📊 Technical Overview
 
-## 🚧 This repository is currently under active development.
+| Property | Value |
+|-----------|-------|
+| 🎮 Game | Minecraft Java Edition |
+| ☕ Language | Java 21 |
+| 🔧 Platform | Paper API |
+| 📦 Build Tool | Maven |
+| 🔒 Access | Invite Only |
+| 📅 Current Season | Season 1 |
+| 🌐 Repository | Public |
+| 📂 Source Code | Private |
+| 📜 License | MIT |
 
-The source code will become available after **Season 1** concludes.
+---
 
-</div>
+> [!IMPORTANT]
+>
+> The repository is public to document the project and prepare future open-source releases.
+>
+> The plugin source code will become available once the current season has concluded.
+
+---
+
+<!-- ========================================================= -->
+<!-- SVG Divider (Coming Soon)                                 -->
+<!-- Replace this line with your own divider.svg later          -->
+<!-- ========================================================= -->
 
 ---
