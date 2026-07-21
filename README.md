@@ -1,25 +1,10 @@
-<!-- ========================================================= -->
-<!--                         SMPES                             -->
-<!--                  Official Minecraft Plugin                -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<!-- ========================================================= -->
-<!-- Banner (Coming Soon)                                      -->
-<!-- Replace with: ./assets/banner.png                         -->
-<!-- ========================================================= -->
-
-<img src="./assets/banner.png" alt="SMPES Banner"/>
+<img src="https://img.shields.io/badge/BANNER-COMING_SOON-lightgrey?style=for-the-badge&labelColor=2d2d2d">
 
 <br><br>
 
-<!-- ========================================================= -->
-<!-- Logo (Coming Soon)                                        -->
-<!-- Replace with: ./assets/logo.png                           -->
-<!-- ========================================================= -->
-
-<img src="./assets/logo.png" width="170">
+<img src="https://img.shields.io/badge/LOGO-COMING_SOON-lightgrey?style=for-the-badge&labelColor=2d2d2d">
 
 # ⚔️ SMPES
 
@@ -31,32 +16,24 @@ Developed by **SpectroDinner DEV**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1800&color=58A6FF&center=true&vCenter=true&width=950&lines=Official+Minecraft+Plugin;Private+Invite+Only+SMP;Built+with+Paper+API;Open+Source+After+Each+Season;Designed+for+Long-Term+Gameplay">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1800&color=58A6FF&center=true&vCenter=true&width=1000&lines=Official+Minecraft+Plugin;Private+Invite+Only+SMP;Built+with+Paper+API;Open+Source+After+Each+Season;Designed+for+Long-Term+Gameplay">
 
 <br>
-
-<!-- ========================================================= -->
-<!-- Static Badges                                             -->
-<!-- ========================================================= -->
 
 <img src="https://img.shields.io/badge/Minecraft-1.21+-5CB85C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Java-21-E76F00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Paper-API-2D9CDB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Season-1-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Season-T1-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Status-Private-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Access-Invite%20Only-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Open%20Source-After%20Season%201-6f42c1?style=for-the-badge">
+<img src="https://img.shields.io/badge/Open%20Source-After%20Season%201-6F42C1?style=for-the-badge">
 <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge">
 
 <br>
 
-<!-- ========================================================= -->
-<!-- Dynamic Badges                                            -->
-<!-- Uncomment after first release                             -->
-<!-- ========================================================= -->
+<!-- Enable these after the first public release -->
 
 <!--
-
 <img src="https://img.shields.io/github/stars/Elmoderador/SMPES?style=for-the-badge">
 
 <img src="https://img.shields.io/github/forks/Elmoderador/SMPES?style=for-the-badge">
@@ -71,12 +48,9 @@ Developed by **SpectroDinner DEV**
 
 <img src="https://img.shields.io/github/commit-activity/m/Elmoderador/SMPES?style=for-the-badge">
 
-<img src="https://img.shields.io/github/release-date/Elmoderador/SMPES?style=for-the-badge">
-
 <img src="https://img.shields.io/github/v/release/Elmoderador/SMPES?style=for-the-badge">
 
 <img src="https://img.shields.io/github/downloads/Elmoderador/SMPES/total?style=for-the-badge">
-
 -->
 
 </div>
@@ -85,92 +59,110 @@ Developed by **SpectroDinner DEV**
 
 # 📖 Table of Contents
 
-- [📖 About](#-about)
-- [🌍 Seasons](#-seasons)
-- [🎯 Project Goals](#-project-goals)
-- [⭐ Project Philosophy](#-project-philosophy)
-- [📊 Technical Overview](#-technical-overview)
-- [✨ Features](#-features)
-- [📸 Gallery](#-gallery)
-- [🎥 Gameplay](#-gameplay)
-- [📚 Documentation](#-documentation)
-- [📦 Releases](#-releases)
-- [🤝 Contributing](#-contributing)
-- [❓ FAQ](#-faq)
-- [📜 License](#-license)
+- 📖 About
+- 🌍 Seasons
+- 🎯 Project Goals
+- ⭐ Project Philosophy
+- 📊 Technical Overview
+- 🏆 Core Principles
+- 📈 Development Status
+- ✨ Features
+- 📸 Gallery
+- 🎥 Gameplay
+- 📚 Documentation
+- 📦 Releases
+- 🤝 Contributing
+- ❓ FAQ
+- 📜 License
 
 ---
 
 # 📖 About
 
-SMPES is the official plugin powering the private Minecraft server of the same name.
+**SMPES** is the official plugin powering the private Minecraft server of the same name.
 
-Rather than relying on dozens of unrelated plugins, SMPES is built around a single goal:
+Unlike traditional survival servers that combine dozens of unrelated plugins, SMPES has been designed around a single vision: every mechanic should feel like part of the same game.
 
-> **Create a polished, balanced and unique survival experience.**
+The project focuses on creating a polished survival experience through custom gameplay systems, balanced progression and clean software architecture.
 
-Every mechanic is designed specifically for the server, ensuring consistency across gameplay while remaining easy to maintain and expand.
-
-The project is developed entirely by **SpectroDinner DEV** and will gradually become fully open source as each season concludes.
+Each feature is developed specifically for SMPES, ensuring consistency, maintainability and long-term scalability.
 
 ---
 
 # 🌍 Seasons
 
-Unlike traditional public Minecraft servers, SMPES is developed through **private seasons**.
+Development is organized into **private seasons**.
 
-Each season introduces new mechanics, balancing changes and improvements before the source code is published.
+Every season serves as an opportunity to introduce new mechanics, rebalance existing systems and test ideas before they become publicly available.
+
+This development model allows the project to evolve while maintaining a high-quality gameplay experience.
 
 ## 🔒 Invite Only
 
-Every season runs on a private Minecraft SMP.
+SMPES is **not a public server**.
 
-Joining is **not public**.
+Access is granted exclusively through invitations.
 
-Players participate exclusively through invitations.
+Keeping the player base intentionally small allows us to:
 
-This allows:
-
-- Better gameplay balancing.
-- Controlled testing.
-- High-quality feedback.
-- A stronger community.
+- Test mechanics under real gameplay conditions.
+- Balance features more effectively.
+- Gather valuable feedback.
+- Maintain a close-knit community.
 
 ---
 
-## 📦 Open Source
+## 🌐 Open Source Workflow
 
-Although the gameplay experience is private, the project itself is intended to become fully open source.
+Although gameplay remains private during each season, the project itself is intended to become fully open source.
 
-At the end of every season:
+At the conclusion of every season:
 
-- 📂 Source code is published.
-- 📦 Releases are created.
-- 📚 Documentation is updated.
-- 🚀 Development begins for the next season.
+- 📂 The complete source code is published.
+- 📦 A GitHub Release is created.
+- 📚 Documentation is expanded.
+- 🚀 Development continues for the next season.
+
+This workflow preserves the unique experience of each season while allowing the community to learn from and contribute to the project afterwards.
 
 ---
 
 # 🎯 Project Goals
 
-- Deliver a polished survival experience.
-- Keep gameplay balanced.
-- Build maintainable software.
-- Prioritize quality over quantity.
-- Publish clean open-source code.
-- Provide complete documentation.
+SMPES is built around several long-term objectives.
+
+- ⚔️ Create a unique survival experience.
+- 🧩 Build modular and maintainable systems.
+- 📈 Continuously improve gameplay every season.
+- 📚 Maintain high-quality documentation.
+- 🌍 Release polished open-source software.
+- 💡 Encourage experimentation and innovation.
 
 ---
 
 # ⭐ Project Philosophy
 
-Every feature added to SMPES must satisfy three simple rules:
+Every feature added to SMPES must satisfy three principles.
 
-- Improve gameplay.
-- Integrate naturally with existing systems.
-- Be worth maintaining long-term.
+### 🎮 Gameplay First
 
-If a feature does not satisfy these requirements, it simply doesn't belong in the project.
+Mechanics should improve the player experience rather than simply add complexity.
+
+---
+
+### ⚖️ Balance Matters
+
+Powerful features should always include meaningful trade-offs.
+
+---
+
+### 🛠️ Maintainability
+
+Systems should remain easy to understand, expand and maintain over time.
+
+---
+
+If a feature fails to meet these principles, it simply doesn't become part of the project.
 
 ---
 
@@ -180,27 +172,711 @@ If a feature does not satisfy these requirements, it simply doesn't belong in th
 |-----------|-------|
 | 🎮 Game | Minecraft Java Edition |
 | ☕ Language | Java 21 |
-| 🔧 Platform | Paper API |
+| 🔧 API | Paper API |
 | 📦 Build Tool | Maven |
-| 🔒 Access | Invite Only |
-| 📅 Current Season | Season 1 |
 | 🌐 Repository | Public |
-| 📂 Source Code | Private |
+| 📂 Source Code | Private (Current Season) |
+| 🔒 Server Access | Invite Only |
+| 📅 Current Season | Season 1 |
 | 📜 License | MIT |
 
 ---
 
+# 🏆 Core Principles
+
+<div align="center">
+
+| 🛡️ Quality | ⚖️ Balance | 📚 Documentation | 🚀 Innovation |
+|:----------:|:----------:|:----------------:|:-------------:|
+| Every feature should feel polished. | Gameplay before power. | Everything deserves proper documentation. | Every season should bring something new. |
+
+</div>
+
+---
+
+# 📈 Development Status
+
+| Component | Status |
+|-----------|:------:|
+| Plugin Core | 🟢 Active Development |
+| Documentation | 🟡 In Progress |
+| Season 1 | 🟢 Running |
+| Open Source Release | 🔒 Planned |
+| Public Releases | ⏳ Coming Soon |
+
 > [!IMPORTANT]
 >
-> The repository is public to document the project and prepare future open-source releases.
+> This repository is currently used to document the project while Season 1 is in progress.
 >
-> The plugin source code will become available once the current season has concluded.
+> The complete source code will be published once the season has officially ended.
 
 ---
 
-<!-- ========================================================= -->
-<!-- SVG Divider (Coming Soon)                                 -->
-<!-- Replace this line with your own divider.svg later          -->
-<!-- ========================================================= -->
+# ✨ Core Features
+
+SMPES is designed around several interconnected systems that work together to create a unique survival experience.
+
+Unlike traditional Minecraft servers, every feature has been built specifically for SMPES and follows the project's core philosophy: **quality over quantity**.
 
 ---
+
+## ⚔️ Gameplay Systems
+
+| System | Status | Description |
+|---------|:------:|-------------|
+| ⚔️ Classes | ✅ Available | Multiple playable classes with advantages and disadvantages. |
+| 🛡️ Legendary Weapons | ✅ Available | Unique weapons with exclusive abilities and progression. |
+| ⏳ Playtime System | ✅ Available | Daily playtime limits designed to balance progression. |
+| 🏰 Clans | 🚧 Development | Create or join clans with customizable roles and colors. |
+| 📚 Documentation | 🚧 Writing | Complete project documentation hosted in this repository. |
+| 🎒 Custom Items | 📅 Season 2 | Planned for a future season. |
+| 👑 Bosses | 📅 Season 2 / 3 | Large-scale PvE encounters. |
+| 📜 Quests | 📅 Season 2 / 3 | Story-driven missions and progression. |
+
+---
+
+# 📊 Project Statistics
+
+These values will grow as development continues.
+
+| Metric | Value |
+|---------|------:|
+| ☕ Java Version | 21 |
+| 🔧 Paper Version | 1.21+ |
+| 📅 Current Season | 1 |
+| 🏰 Maximum Clans | 4 |
+| 📚 Documentation | In Progress |
+| 📦 Public Releases | 0 |
+| ⚔️ Classes | Coming Soon |
+| 🛡️ Legendary Weapons | Coming Soon |
+| 🎒 Custom Items | Coming Soon |
+| 👑 Bosses | Coming Soon |
+
+---
+
+# 📸 Gallery
+
+Screenshots will be published throughout the development of each season.
+
+<div align="center">
+
+## 🌍 Spawn
+
+<img src="https://img.shields.io/badge/SPAWN-SCREENSHOT_COMING_SOON-lightgrey?style=for-the-badge">
+
+<br><br>
+
+## ⚔️ Classes
+
+<img src="https://img.shields.io/badge/CLASSES-SCREENSHOT_COMING_SOON-lightgrey?style=for-the-badge">
+
+<br><br>
+
+## 🛡️ Legendary Weapons
+
+<img src="https://img.shields.io/badge/WEAPONS-SCREENSHOT_COMING_SOON-lightgrey?style=for-the-badge">
+
+<br><br>
+
+## 🏰 Clans
+
+<img src="https://img.shields.io/badge/CLANS-SCREENSHOT_COMING_SOON-lightgrey?style=for-the-badge">
+
+</div>
+
+---
+
+# 🎥 Gameplay Showcase
+
+Gameplay previews will be added once Season 1 progresses.
+
+<div align="center">
+
+### ⚔️ Class Showcase
+
+<img src="https://img.shields.io/badge/GIF-COMING_SOON-orange?style=for-the-badge">
+
+<br><br>
+
+### 🛡️ Weapon Showcase
+
+<img src="https://img.shields.io/badge/GIF-COMING_SOON-orange?style=for-the-badge">
+
+<br><br>
+
+### 🏰 Clan Showcase
+
+<img src="https://img.shields.io/badge/GIF-COMING_SOON-orange?style=for-the-badge">
+
+<br><br>
+
+### 🎮 Gameplay
+
+<img src="https://img.shields.io/badge/GAMEPLAY-COMING_SOON-orange?style=for-the-badge">
+
+</div>
+
+---
+
+# ⚔️ Classes
+
+> 📖 Full documentation: `/docs/classes.md`
+
+The class system is one of the core mechanics of SMPES.
+
+Every class is designed around a unique playstyle rather than simply modifying player statistics.
+
+### Planned Documentation
+
+- 📖 Overview
+- ⚖️ Strengths & Weaknesses
+- 📈 Progression
+- 🎮 Gameplay Style
+- 💡 Tips
+
+---
+
+# 🛡️ Legendary Weapons
+
+> 📖 Full documentation: `/docs/weapons.md`
+
+Legendary Weapons introduce unique abilities that cannot be obtained through vanilla equipment.
+
+Each weapon includes:
+
+- ⚡ Exclusive abilities
+- 📈 Progression system
+- 📜 Custom lore
+- ⚖️ Gameplay balance
+
+---
+
+# 🏰 Clans
+
+> 📖 Full documentation: `/docs/clans.md`
+
+Players can either create or join a clan.
+
+Current limitations include:
+
+- Maximum of **4 clans**
+- 🎨 Custom clan colors
+- 👥 Invite-only membership
+- 🛡️ Automatic clan roles
+
+Future seasons may expand this system with additional mechanics.
+
+---
+
+# 🏗️ Project Architecture
+
+```text
+Minecraft Server
+        │
+        ▼
+     Paper API
+        │
+        ▼
+      SMPES Core
+        │
+ ┌──────┼─────────┐
+ │      │         │
+ ▼      ▼         ▼
+Classes Weapons Clans
+ │
+ ▼
+Shared Systems
+ │
+ ▼
+Utilities
+```
+
+---
+
+# 📂 Repository Structure
+
+```text
+SMPES/
+│
+├── assets/
+│   ├── banner.png
+│   ├── logo.png
+│   ├── screenshots/
+│   ├── gifs/
+│   └── svg/
+│
+├── docs/
+│   ├── wiki.md
+│   ├── rules.md
+│   ├── classes.md
+│   ├── weapons.md
+│   ├── clans.md
+│   └── faq.md
+│
+├── src/
+│
+├── README.md
+│
+└── LICENSE
+```
+
+---
+
+# 🚧 Visual Showcase
+
+This section is reserved for future content.
+
+<div align="center">
+
+| Planned Content | Status |
+|:---------------|:------:|
+| 📸 Spawn Screenshots | ⏳ Coming Soon |
+| 🎮 Gameplay Screenshots | ⏳ Coming Soon |
+| ⚔️ Class Demonstrations | ⏳ Coming Soon |
+| 🛡️ Weapon Demonstrations | ⏳ Coming Soon |
+| 🏰 Clan Showcase | ⏳ Coming Soon |
+| 👥 Season Group Photo | ⏳ After Season 1 |
+
+</div>
+
+---
+
+# 📚 Documentation
+
+Complete documentation is available inside the `/docs` directory.
+
+Every gameplay system has its own dedicated documentation to make both development and usage easier.
+
+| Document | Description | Status |
+|----------|-------------|:------:|
+| 📖 Wiki | General information about SMPES. | 🚧 |
+| 📜 Rules | Official server rules. | 🚧 |
+| ⚔️ Classes | Complete class documentation. | 🚧 |
+| 🛡️ Weapons | Legendary weapons guide. | 🚧 |
+| 🏰 Clans | Clan system documentation. | 🚧 |
+| ❓ FAQ | Frequently Asked Questions. | 🚧 |
+
+---
+
+# 📦 Releases
+
+Every public release contains:
+
+- 📦 Compiled plugin (.jar)
+- 📄 Complete changelog
+- 🐞 Bug fixes
+- ✨ New features
+- 📚 Documentation updates
+- ⚡ Performance improvements
+
+## Versioning
+
+SMPES follows **Semantic Versioning**.
+
+| Version | Meaning |
+|---------|---------|
+| Major | Large gameplay updates or seasons |
+| Minor | New mechanics and features |
+| Patch | Bug fixes and improvements |
+
+Example:
+
+```text
+v1.0.0
+│ │ │
+│ │ └── Patch
+│ └──── Minor
+└────── Major
+```
+
+---
+
+# 🚀 Installation
+
+> Available after the first public release.
+
+### Requirements
+
+- Java 21
+- Paper Server 1.21+
+- Maven (for development)
+
+### Installation
+
+1. Download the latest Release.
+2. Place the `.jar` inside your plugins folder.
+3. Restart the server.
+4. Configure the plugin if required.
+5. Enjoy.
+
+---
+
+# 🛠️ Building
+
+Clone the repository.
+
+```bash
+git clone https://github.com/Elmoderador/SMPES.git
+```
+
+Enter the project.
+
+```bash
+cd SMPES
+```
+
+Compile.
+
+```bash
+mvn clean package
+```
+
+The compiled plugin will be generated inside:
+
+```text
+target/
+```
+
+---
+
+# 🧩 Why SMPES?
+
+| Feature | Vanilla | Generic Servers | SMPES |
+|----------|:-------:|:---------------:|:----:|
+| Custom Gameplay | ❌ | ⚠️ | ✅ |
+| Balanced Progression | ❌ | ⚠️ | ✅ |
+| Seasonal Development | ❌ | ❌ | ✅ |
+| Invite Only Testing | ❌ | ❌ | ✅ |
+| Open Source | ❌ | ⚠️ | ✅ |
+| Complete Documentation | ❌ | ⚠️ | ✅ |
+
+---
+
+# 🗺️ Development Roadmap
+
+## ✅ Season 1
+
+- Core plugin
+- Classes
+- Legendary Weapons
+- Playtime System
+- Clan Foundation
+- Documentation
+
+---
+
+## 🚧 Season 2
+
+- Custom Items
+- New Classes
+- Clan Improvements
+- GUI Improvements
+- More Legendary Weapons
+
+---
+
+## 🔮 Season 3
+
+- Bosses
+- Quests
+- Events
+- More Progression
+- Endgame Content
+
+---
+
+# 🔐 Security
+
+If you discover a vulnerability, please **do not create a public issue**.
+
+Instead, contact the maintainers privately until the issue has been resolved.
+
+---
+
+# 🐞 Bug Reports
+
+Before opening an Issue:
+
+- Search existing issues.
+- Verify the bug.
+- Explain how to reproduce it.
+- Include logs if possible.
+- Include screenshots when relevant.
+
+---
+
+# 💡 Suggestions
+
+Suggestions are always welcome.
+
+Ideas are especially appreciated regarding:
+
+- Gameplay balance
+- Performance
+- Code quality
+- Documentation
+- New mechanics
+
+---
+
+# 🤝 Contributing
+
+Contributions will become available after the project is open sourced.
+
+Ways to contribute:
+
+- 🐞 Report bugs
+- 💡 Suggest features
+- 🔀 Submit Pull Requests
+- 📚 Improve documentation
+- 🧪 Help testing
+
+Please keep contributions clean, documented and consistent with the existing codebase.
+
+---
+
+# 📈 Development Workflow
+
+```text
+Idea
+ │
+ ▼
+Planning
+ │
+ ▼
+Development
+ │
+ ▼
+Testing
+ │
+ ▼
+Private Season
+ │
+ ▼
+Release
+ │
+ ▼
+Open Source
+```
+
+---
+
+# ❓ Frequently Asked Questions
+
+<details>
+<summary><b>Why isn't the source code public yet?</b></summary>
+
+The current season is still active.
+
+The code will be published once the season officially ends.
+
+</details>
+
+<details>
+<summary><b>Can I play on SMPES?</b></summary>
+
+Yes.
+
+However, every season is Invite Only.
+
+</details>
+
+<details>
+<summary><b>Can I use this plugin on my own server?</b></summary>
+
+Yes.
+
+Once the public release is available.
+
+</details>
+
+<details>
+<summary><b>Will there be more seasons?</b></summary>
+
+Absolutely.
+
+Each season introduces new mechanics, improvements and gameplay systems.
+
+</details>
+
+---
+
+# 🌍 Community
+
+Although SMPES is currently developed around a private Invite Only server, the long-term vision extends beyond a single season.
+
+After every season, the project becomes progressively more open, allowing the community to learn from the codebase, contribute improvements and reuse systems for their own servers.
+
+The goal is to build not only a Minecraft plugin, but also a well-documented open-source project.
+
+---
+
+# 🏆 Season Archive
+
+Every season represents a major milestone in the history of SMPES.
+
+| Season | Status | Source Code | Release |
+|:------:|:------:|:-----------:|:-------:|
+| ⚔️ Season 1 | 🟢 Active | 🔒 Private | ⏳ Coming Soon |
+| 🏰 Season 2 | 📅 Planned | 🔒 Private | — |
+| 👑 Season 3 | 📅 Planned | 🔒 Private | — |
+
+---
+
+# 📅 Development Timeline
+
+```text
+Season 1
+██████████████████████░░░░░░░░░
+
+Season 2
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+Season 3
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+Progress bars will be updated throughout development.
+
+---
+
+# ❤️ Credits
+
+## Main Development
+
+| Role | Member |
+|------|--------|
+| 👨‍💻 Lead Developer | SpectroDinner DEV |
+| ☕ Main Language | Java |
+| 🔧 API | Paper API |
+| 📦 Build Tool | Maven |
+
+---
+
+## Special Thanks
+
+A huge thank you to everyone participating in SMPES.
+
+Every bug report, suggestion and gameplay session helps improve the project for future seasons.
+
+---
+
+# 🌐 Official Links
+
+<div align="center">
+
+| Resource | Status |
+|----------|:------:|
+| 🌍 Website | <img src="https://img.shields.io/badge/COMING_SOON-lightgrey?style=flat-square"> |
+| 💬 Discord | <img src="https://img.shields.io/badge/COMING_SOON-lightgrey?style=flat-square"> |
+| 📖 Wiki | <img src="https://img.shields.io/badge/COMING_SOON-lightgrey?style=flat-square"> |
+| 🎥 Trailer | <img src="https://img.shields.io/badge/COMING_SOON-lightgrey?style=flat-square"> |
+
+</div>
+
+---
+
+# ⭐ Support the Project
+
+If you enjoy SMPES or find this repository useful, consider supporting the project by:
+
+- ⭐ Starring the repository.
+- 🍴 Forking the project.
+- 🐞 Reporting bugs.
+- 💡 Suggesting new ideas.
+- 📚 Improving the documentation.
+
+Every contribution helps the project grow.
+
+---
+
+# 📜 License
+
+This project is distributed under the **MIT License**.
+
+See the **LICENSE** file for more information.
+
+---
+
+# 🔮 Future Plans
+
+The following features are planned for future seasons.
+
+| Feature | Planned |
+|----------|:------:|
+| 🎒 Custom Items | ✅ |
+| 👑 Bosses | ✅ |
+| 📜 Quests | ✅ |
+| 🎭 New Classes | ✅ |
+| ⚔️ More Legendary Weapons | ✅ |
+| 🎉 Seasonal Events | ✅ |
+| 🌎 Expanded Documentation | ✅ |
+
+---
+
+# 📈 Repository Growth
+
+Repository statistics will become available after the first public release.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STARS-COMING_SOON-lightgrey?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/FORKS-COMING_SOON-lightgrey?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/DOWNLOADS-COMING_SOON-lightgrey?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/CONTRIBUTORS-COMING_SOON-lightgrey?style=for-the-badge">
+
+</div>
+
+---
+
+# 📂 Repository Overview
+
+```text
+SMPES
+│
+├── 📄 README.md
+├── 📚 docs/
+├── 🖼️ assets/
+├── 💻 src/
+├── 📦 releases/
+└── 📜 LICENSE
+```
+
+---
+
+# 💬 Final Notes
+
+SMPES is more than a Minecraft plugin.
+
+It is a long-term project focused on delivering polished gameplay, maintainable code and comprehensive documentation while embracing open-source development after each completed season.
+
+Thank you for visiting the repository.
+
+We hope you enjoy following the development of SMPES.
+
+---
+
+<div align="center">
+
+# ⚔️ SMPES
+
+### Official Minecraft Plugin
+
+Developed by **SpectroDinner DEV**
+
+<br>
+
+<img src="https://img.shields.io/badge/THANKS_FOR_VISITING-❤-red?style=for-the-badge">
+
+<br><br>
+
+**Built with Java, Paper API and many hours of development.**
+
+<br>
+
+<sub>© SpectroDinner DEV • All Rights Reserved during active seasons.</sub>
+
+</div>
