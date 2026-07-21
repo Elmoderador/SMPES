@@ -1,54 +1,89 @@
 <div align="center">
 
-# 📚 Documentación de SMPES
+# 📚 SMPES Documentation
 
-### Bienvenido a la documentación oficial del proyecto.
+### Official Documentation Index
 
-Aquí encontrarás toda la información necesaria sobre el funcionamiento del plugin y del servidor.
+Welcome to the official documentation for **SMPES**.
+
+This section contains every document related to the project, gameplay systems and server information.
 
 ---
 
-![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-orange)
-![Documentación](https://img.shields.io/badge/Documentación-Oficial-blue)
+![Documentation](https://img.shields.io/badge/Documentation-Official-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)
 
 </div>
 
 ---
 
-# 📖 Índice
+# 📖 Table of Contents
 
-## Información
+## 🌍 General Information
 
-| Documento | Descripción |
+| Document | Description |
 |-----------|-------------|
-| 📜 [Reglas](reglas.md) | Normas oficiales del servidor. |
-| 📖 [Wiki](wiki.md) | Información general sobre SMPES. |
-| ⚔️ [Clases](clases.md) | Todas las clases disponibles. |
-| 🛡️ [Armas](armas.md) | Armas especiales y legendarias. |
-| 🎒 [Objetos personalizados](items.md) | Objetos exclusivos del servidor. |
-| 🏰 [Clanes](clanes.md) | Funcionamiento del sistema de clanes. |
-| ❓ [FAQ](faq.md) | Preguntas frecuentes. |
+| 📜 [Rules](rules.md) | Official server rules and player guidelines. |
+| 📖 [Wiki](wiki.md) | General information about SMPES. |
+| ❓ [FAQ](faq.md) | Frequently Asked Questions. |
 
 ---
 
-# 🚀 Estado
+## ⚔️ Gameplay
 
-| Documento | Estado |
-|-----------|--------|
-| 📜 Reglas | 🟡 En desarrollo |
-| 📖 Wiki | 🟡 En desarrollo |
-| ⚔️ Clases | 🟡 En desarrollo |
-| 🛡️ Armas | 🟡 En desarrollo |
-| 🎒 Objetos | 🟡 En desarrollo |
-| 🏰 Clanes | 🟡 En desarrollo |
-| ❓ FAQ | 🟡 En desarrollo |
+| Document | Description |
+|-----------|-------------|
+| ⚔️ [Classes](classes.md) | Playable classes and their abilities. |
+| 🛡️ [Legendary Weapons](weapons.md) | Legendary weapons and progression. |
+| 🎒 [Custom Items](items.md) | Exclusive items available in SMPES. |
+| 🏰 [Clans](clans.md) | Clan creation and management system. |
 
 ---
 
-# ❤️ SpectroDinner DEV
+## 🔧 Development
 
-Toda la documentación es mantenida por **SpectroDinner DEV**.
+| Document | Description |
+|-----------|-------------|
+| 📦 [Changelog](changelog.md) | Version history and major changes. |
+| 🛣️ [Roadmap](roadmap.md) | Planned features and future development. |
+| 🏗️ [Architecture](architecture.md) | Internal project architecture. |
 
 ---
 
-⬅️ [Volver al repositorio](../README.md)
+# 📊 Documentation Status
+
+| Section | Status |
+|----------|:------:|
+| 🌍 General Information | 🟡 In Progress |
+| ⚔️ Gameplay | 🟡 In Progress |
+| 🔧 Development | 🟡 In Progress |
+
+---
+
+# 🚀 Quick Access
+
+| Repository | Documentation | Releases |
+|------------|---------------|----------|
+| 📂 [Repository](../README.md) | 📚 You are here | 📦 Coming Soon |
+
+---
+
+# ❤️ Maintained by
+
+<div align="center">
+
+**SpectroDinner DEV**
+
+Official documentation for the **SMPES** project.
+
+</div>
+
+---
+
+<div align="center">
+
+### 📖 Happy Reading!
+
+<sub>Last updated alongside the latest project changes.</sub>
+
+</div>
