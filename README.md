@@ -1,156 +1,145 @@
+<!-- ========================================================= -->
+<!-- ======================= SMPES ============================ -->
+<!-- ========================================================= -->
+
 <div align="center">
+
+<!-- Banner -->
+
+<img src="./assets/banner.png" alt="SMPES Banner">
+
+<br><br>
+
+<img src="./assets/logo.png" width="180">
 
 # SMPES
 
-### 🇪🇸 Plugin oficial del servidor SMPES
+### Official Minecraft Plugin
 
-Plugin desarrollado desde cero por **SpectroDinner DEV** para ofrecer una experiencia de supervivencia completamente personalizada.
+Developed by **SpectroDinner DEV**
 
-> ⚠️ **Actualmente en desarrollo**
->
-> El código fuente será publicado cuando finalice la **Temporada 1**.
+> A custom survival experience built from scratch.
 
----
+<br>
 
-![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-orange?style=for-the-badge)
-![Minecraft](https://img.shields.io/badge/Minecraft-1.21+-brightgreen?style=for-the-badge)
-![Paper](https://img.shields.io/badge/Paper-Compatible-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-21-red?style=for-the-badge)
-![License](https://img.shields.io/badge/Licencia-MIT-lightgrey?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=2000&center=true&vCenter=true&width=900&lines=Official+Minecraft+Plugin;Private+Invite+Only+SMP;Custom+Gameplay;Open+Source+After+Each+Season;Developed+with+Paper+API">
+
+<br>
+
+<img src="https://img.shields.io/badge/Minecraft-1.21+-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Java-21-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Paper-API-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Season-T1-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Private-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge">
+
+<!-- Dynamic badges -->
+
+<!--
+<img src="https://img.shields.io/github/stars/YOUR_USER/SMPES?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/YOUR_USER/SMPES?style=for-the-badge">
+<img src="https://img.shields.io/github/downloads/YOUR_USER/SMPES/total?style=for-the-badge">
+<img src="https://img.shields.io/github/v/release/YOUR_USER/SMPES?style=for-the-badge">
+-->
 
 </div>
 
 ---
 
-# 📖 Acerca del proyecto
+# 📖 Table of Contents
 
-**SMPES** es un plugin desarrollado exclusivamente para el servidor del mismo nombre.
-
-Su objetivo es transformar la experiencia vanilla añadiendo sistemas completamente personalizados sin perder la esencia de Minecraft.
-
-Entre sus características destacan:
-
-- ⚔️ Sistema de clases
-- 🏰 Sistema de clanes
-- 🛡️ Armas legendarias
-- 🎒 Objetos personalizados
-- ⏳ Economía basada en tiempo
-- 🎮 Mecánicas exclusivas
-- ⚡ Optimización para Paper
-
----
-
-# ✨ Características
-
-## ⚔️ Clases
-
-Cada jugador podrá escoger una clase con ventajas y desventajas únicas.
+- [About](#-about)
+- [Project Philosophy](#-project-philosophy)
+- [Private Seasons](#-private-seasons)
+- [Project Goals](#-project-goals)
+- [Feature Overview](#-feature-overview)
+- [Project Status](#-project-status)
+- [Gallery](#-gallery)
+- [Gameplay Preview](#-gameplay-preview)
+- [Documentation](#-documentation)
+- [Releases](#-releases)
+- [Contributing](#-contributing)
+- [FAQ](#-faq)
+- [License](#-license)
 
 ---
 
-## 🛡️ Armas legendarias
+# 📖 About
 
-Armas exclusivas con habilidades especiales.
+**SMPES** is a custom Minecraft plugin developed from scratch for the private SMP of the same name.
 
----
+Rather than extending vanilla with dozens of unrelated mechanics, SMPES focuses on creating a cohesive gameplay experience where every system is designed to work together.
 
-## 🎒 Objetos personalizados
+The project is built around long-term progression, balanced gameplay and maintainable code.
 
-Objetos completamente nuevos desarrollados específicamente para SMPES.
-
----
-
-## 🏰 Clanes
-
-Sistema de clanes con colores, gestión y progresión.
+Every mechanic is created specifically for SMPES instead of relying on large collections of third-party plugins.
 
 ---
 
-## ⏳ Economía de tiempo
+# 🌍 Private Seasons
 
-Una mecánica única desarrollada para el servidor.
+Unlike traditional public servers, SMPES is developed through **private seasons**.
 
----
+Each season introduces new mechanics, gameplay improvements and balance changes before the source code is released publicly.
 
-# 📚 Documentación
+## 🔒 Invite Only
 
-Toda la documentación oficial se encuentra dentro de la carpeta **docs**.
+Every season runs on a **private Minecraft SMP**.
 
-| Documento | Descripción |
-|-----------|-------------|
-| 📜 Reglas | Normas oficiales del servidor |
-| 📖 Wiki | Información general |
-| ⚔️ Clases | Todas las clases disponibles |
-| 🛡️ Armas | Armas legendarias |
-| 🎒 Objetos | Objetos personalizados |
-| 🏰 Clanes | Sistema de clanes |
-| ❓ FAQ | Preguntas frecuentes |
+Players cannot join freely.
+
+Access is granted **only by invitation**.
+
+This allows development to remain focused while collecting high-quality feedback from a small community.
 
 ---
 
-# 📦 Releases
+## 📦 Open Source
 
-Cada versión publicada incluirá:
+Although every season is private, the project itself is not.
 
-- Archivo `.jar`
-- Registro completo de cambios
-- Correcciones de errores
-- Nuevas funcionalidades
+At the end of each season:
 
----
+- Source code becomes public.
+- Documentation is updated.
+- Releases are published.
+- Development begins for the next season.
 
-# 🛣️ Roadmap
-
-- [x] Diseño del proyecto
-- [x] Arquitectura base
-- [ ] Sistema de clases
-- [ ] Sistema de armas
-- [ ] Sistema de objetos personalizados
-- [ ] Sistema de clanes
-- [ ] Documentación completa
-- [ ] Publicación del código fuente
+This development model keeps the gameplay exclusive while allowing the community to learn from and contribute to the project over time.
 
 ---
 
-# 🤝 Contribuir
+# 🎯 Project Goals
 
-Actualmente el desarrollo del proyecto está cerrado.
-
-Una vez finalice la Temporada 1, cualquier desarrollador podrá contribuir mediante:
-
-- Pull Requests
-- Issues
-- Sugerencias
-- Reportes de errores
+- Build a polished Minecraft experience.
+- Keep gameplay balanced.
+- Prioritize quality over quantity.
+- Maintain clean and scalable code.
+- Publish high-quality open-source software.
+- Provide clear and complete documentation.
 
 ---
 
-# ❤️ Créditos
+# ⭐ Project Philosophy
 
-## Desarrollo
+SMPES is not intended to become another "kitchen sink" plugin.
 
-**SpectroDinner DEV**
+Instead, every feature must satisfy three requirements:
 
----
+- Improve gameplay.
+- Fit naturally into the existing systems.
+- Maintain simplicity for players.
 
-## Comunidad
-
-Gracias a todos los jugadores que forman parte de SMPES y ayudan a mejorar el proyecto.
-
----
-
-# 📄 Licencia
-
-Este proyecto está distribuido bajo la licencia **MIT**.
-
-Consulta el archivo **LICENSE** para más información.
+Features that do not support these goals are intentionally left out.
 
 ---
 
 <div align="center">
 
-## ⭐ Si te gusta el proyecto, considera darle una estrella al repositorio.
+## 🚧 This repository is currently under active development.
 
-Desarrollado con ❤️ por **SpectroDinner DEV**
+The source code will become available after **Season 1** concludes.
 
 </div>
+
+---
