@@ -723,18 +723,19 @@ Every season represents a major milestone in the history of SMPES.
 
 ---
 
-# 📅 Development Timeline
+## 📅 Development Timeline
 
-```text
-Season 1
-██████████████████████░░░░░░░░░
+### Season 1
 
-Season 2
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+![Season 1](https://img.shields.io/badge/Progress-70%25-brightgreen)
 
-Season 3
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+### Season 2
+
+![Season 2](https://img.shields.io/badge/Progress-0%25-lightgrey)
+
+### Season 3
+
+![Season 3](https://img.shields.io/badge/Progress-0%25-lightgrey)
 
 Progress bars will be updated throughout development.
 
