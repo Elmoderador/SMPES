@@ -878,9 +878,7 @@ Developed by **SpectroDinner DEV**
 <br>
 
 <sub>Copyright © 2024–2026 SpectroDinner (SpectroDinner DEV)</sub>
-
 <br>
-
 <sub>Licensed under the MIT License.</sub>
 
 </div>
