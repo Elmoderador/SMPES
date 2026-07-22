@@ -877,10 +877,8 @@ Developed by **SpectroDinner DEV**
 
 <br>
 
-<sub>Developed by SpectroDinner DEV
+</sub>Copyright (c) 2024–2026 SpectroDinner (SpectroDinner DEV)</sub>
 
-Copyright (c) 2024–2026 SpectroDinner (SpectroDinner DEV)
-
-Licensed under the MIT License.</sub>
+</sub>Licensed under the MIT License.</sub>
 
 </div>
