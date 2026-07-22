@@ -27,7 +27,7 @@ Developed by **SpectroDinner DEV**
 <img src="https://img.shields.io/badge/Status-Private-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Access-Invite%20Only-red?style=for-the-badge">
 <img src="https://img.shields.io/badge/Open%20Source-After%20Season%201-6F42C1?style=for-the-badge">
-<img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge">
+<img src="https://img.shields.io/badge/License-SpectroDinner_Public_Source_License-lightgrey?style=for-the-badge">
 
 <br>
 
@@ -178,7 +178,7 @@ If a feature fails to meet these principles, it simply doesn't become part of th
 | 📂 Source Code | Private (Current Season) |
 | 🔒 Server Access | Invite Only |
 | 📅 Current Season | Season 1 |
-| 📜 License | MIT |
+| 📜 License | SpectroDinner Public Source License |
 
 ---
 
@@ -804,7 +804,7 @@ Every contribution helps the project grow.
 
 # 📜 License
 
-This project is distributed under the **MIT License**.
+This project is distributed under the **SpectroDinner Public Source License**.
 
 See the **LICENSE** file for more information.
 
@@ -891,6 +891,6 @@ Developed by **SpectroDinner DEV**
 
 <sub>Copyright © 2024–2026 SpectroDinner (SpectroDinner DEV)</sub>
 <br>
-<sub>Licensed under the MIT License.</sub>
+<sub>Licensed under the SpectroDinner Public Source License.</sub>
 
 </div>
