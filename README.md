@@ -877,6 +877,10 @@ Developed by **SpectroDinner DEV**
 
 <br>
 
-<sub>© SpectroDinner DEV • All Rights Reserved during active seasons.</sub>
+<sub>Developed by SpectroDinner DEV
+
+Copyright (c) 2024–2026 SpectroDinner (SpectroDinner DEV)
+
+Licensed under the MIT License.</sub>
 
 </div>
