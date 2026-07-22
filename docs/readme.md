@@ -2,64 +2,79 @@
 
 # 📚 SMPES Documentation
 
-### Official Documentation Hub
+### Official Documentation Center
 
-Welcome to the official documentation of **SMPES**.
-
-This directory contains detailed documentation about the plugin's gameplay systems and internal architecture.
+Select your preferred language to access the official documentation.
 
 ---
 
 ![Documentation](https://img.shields.io/badge/Documentation-Official-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-2-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
 
 </div>
 
 ---
 
-# 📖 Table of Contents
+# 🌍 Available Languages
 
-## 🎮 Gameplay
-
-| Document | Description |
-|-----------|-------------|
-| 📖 [Wiki](wiki.md) | General overview of SMPES. |
-| ⚔️ [Classes](classes.md) | Complete class system documentation. |
-| 🛡️ [Legendary Weapons](weapons.md) | Weapons, abilities and progression. |
-| 🎒 [Custom Items](items.md) | Exclusive custom items. |
-| 🏰 [Clans](clans.md) | Clan creation and management. |
+| Language | Documentation | Status |
+|----------|---------------|:------:|
+| 🇪🇸 **Español** | [Abrir documentación](es/README.md) | ✅ Available |
+| 🇬🇧 **English** | [Open documentation](en/README.md) | 🚧 In Progress |
 
 ---
 
-## 💻 Development
+# 📖 About
 
-| Document | Description |
-|-----------|-------------|
-| 🏗️ [Architecture](architecture.md) | Project architecture and internal structure. |
+The documentation is organized by language to provide a better reading experience.
+
+Each language contains its own documentation hub, including:
+
+- 📖 Project Wiki
+- ⚔️ Classes
+- 🛡️ Legendary Weapons
+- 🏰 Clans
+- 🏗️ Project Architecture
+- 🎒 Custom Items *(Future Seasons)*
 
 ---
 
-# 🚀 Quick Links
+# 🚀 Documentation Structure
+
+```text
+docs/
+│
+├── README.md
+│
+├── es/
+│   ├── README.md
+│   ├── wiki.md
+│   ├── clases.md
+│   ├── armas.md
+│   ├── clanes.md
+│   ├── arquitectura.md
+│   └── objetos.md
+│
+└── en/
+    ├── README.md
+    ├── wiki.md
+    ├── classes.md
+    ├── weapons.md
+    ├── clans.md
+    ├── architecture.md
+    └── items.md
+```
+
+---
+
+# 🔗 Quick Links
 
 | Resource | Link |
 |----------|------|
 | 🏠 Main Repository | [README.md](../README.md) |
-| 📦 Releases | GitHub Releases |
-| 🐞 Issues | GitHub Issues |
-| 🔀 Pull Requests | GitHub Pull Requests |
-
----
-
-# 📊 Documentation Progress
-
-| Section | Status |
-|----------|:------:|
-| 📖 Wiki | 🟡 In Progress |
-| ⚔️ Classes | 🟡 In Progress |
-| 🛡️ Weapons | 🟡 In Progress |
-| 🎒 Custom Items | 🟡 Planned |
-| 🏰 Clans | 🟡 In Progress |
-| 🏗️ Architecture | 🟡 Planned |
+| 🇪🇸 Spanish Documentation | [docs/es](es/README.md) |
+| 🇬🇧 English Documentation | [docs/en](en/README.md) |
 
 ---
 
@@ -67,6 +82,8 @@ This directory contains detailed documentation about the plugin's gameplay syste
 
 **Maintained by SpectroDinner DEV**
 
-<sub>Official documentation for the SMPES project.</sub>
+<sub>Copyright © 2024–2026 SpectroDinner (SpectroDinner DEV)</sub>
+
+<sub>Licensed under the MIT License.</sub>
 
 </div>
