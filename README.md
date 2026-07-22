@@ -200,7 +200,7 @@ If a feature fails to meet these principles, it simply doesn't become part of th
 |-----------|:------:|
 | Plugin Core | 🟢 Active Development |
 | Documentation | 🟡 In Progress |
-| Season 1 | 🟢 Running |
+| Season 1 | 🟡 In Progress |
 | Open Source Release | 🔒 Planned |
 | Public Releases | ⏳ Coming Soon |
 
@@ -224,33 +224,37 @@ Unlike traditional Minecraft servers, every feature has been built specifically 
 
 | System | Status | Description |
 |---------|:------:|-------------|
-| ⚔️ Classes | ✅ Available | Multiple playable classes with advantages and disadvantages. |
-| 🛡️ Legendary Weapons | ✅ Available | Unique weapons with exclusive abilities and progression. |
-| ⏳ Playtime System | ✅ Available | Daily playtime limits designed to balance progression. |
-| 🏰 Clans | 🚧 Development | Create or join clans with customizable roles and colors. |
-| 📚 Documentation | 🚧 Writing | Complete project documentation hosted in this repository. |
-| 🎒 Custom Items | 📅 Season 2 | Planned for a future season. |
-| 👑 Bosses | 📅 Season 2 / 3 | Large-scale PvE encounters. |
-| 📜 Quests | 📅 Season 2 / 3 | Story-driven missions and progression. |
+| ⚔️ Classes | 🟢 Active | Unique playable classes with strengths, weaknesses and progression. |
+| 🛡️ Legendary Weapons | 🟢 Active | One unique Legendary Weapon featuring exclusive abilities and progression. |
+| 👑 Admin Weapon | 🟢 Active | Exclusive administrative weapon unavailable during normal gameplay. |
+| ⏳ Playtime System | 🟢 Active | Playtime-based progression limiter designed to balance gameplay. |
+| 🏰 Clans | 🟢 Active | Create invite-only clans with automatic Discord roles and custom colors. |
+| 📚 Documentation | 🚧 Writing | Official project documentation available in this repository. |
+| 🎒 Custom Items | 📅 Season 2 | Planned expansion introducing exclusive custom items. |
+| 👑 Bosses | 📅 Season 3 | Challenging PvE encounters with unique mechanics. |
+| 📜 Quests | 📅 Season 3 | Story-driven missions and progression systems. |
 
 ---
 
 # 📊 Project Statistics
 
-These values will grow as development continues.
+Project statistics are updated as development progresses.
 
 | Metric | Value |
 |---------|------:|
 | ☕ Java Version | 21 |
-| 🔧 Paper Version | 1.21+ |
-| 📅 Current Season | 1 |
+| 🔧 Server Software | Paper 1.21+ |
+| 📅 Current Season | Season 1 |
 | 🏰 Maximum Clans | 4 |
-| 📚 Documentation | In Progress |
+| ⚔️ Classes | 12 *(Planned for Season 1)* |
+| 🛡️ Legendary Weapons | 1 |
+| 👑 Admin Weapons | 1 |
+| 🎒 Custom Items | 0 *(Season 2)* |
+| 👑 Bosses | 0 *(Season 3)* |
+| 📜 Quests | 0 *(Season 3)* |
 | 📦 Public Releases | 0 |
-| ⚔️ Classes | Coming Soon |
-| 🛡️ Legendary Weapons | Coming Soon |
-| 🎒 Custom Items | Coming Soon |
-| 👑 Bosses | Coming Soon |
+| 🌍 Source Code | 🔒 Private |
+| 📚 Documentation | 🚧 In Progress |
 
 ---
 
@@ -320,51 +324,64 @@ Gameplay previews will be added once Season 1 progresses.
 
 # ⚔️ Classes
 
-> 📖 Full documentation: `/docs/classes.md`
+> 📖 **Full Documentation:** [`/docs/classes.md`](docs/classes.md)
 
-The class system is one of the core mechanics of SMPES.
+The class system is one of the core gameplay mechanics of **SMPES**.
 
-Every class is designed around a unique playstyle rather than simply modifying player statistics.
+Each class provides a unique combat role with its own strengths, weaknesses and progression path, encouraging different playstyles while maintaining overall game balance.
 
-### Planned Documentation
+### Documentation includes
 
-- 📖 Overview
+- ⚔️ Class Overview
 - ⚖️ Strengths & Weaknesses
-- 📈 Progression
+- 📈 Level & Mastery Progression
+- ✨ Passive Abilities
 - 🎮 Gameplay Style
-- 💡 Tips
+- 💡 Strategy Tips
 
 ---
 
 # 🛡️ Legendary Weapons
 
-> 📖 Full documentation: `/docs/weapons.md`
+> 📖 **Full Documentation:** [`/docs/weapons.md`](docs/weapons.md)
 
-Legendary Weapons introduce unique abilities that cannot be obtained through vanilla equipment.
+Legendary Weapons are unique artifacts that cannot be obtained through vanilla gameplay.
 
-Each weapon includes:
+Each weapon features its own identity, progression system and special abilities designed to complement specific playstyles.
 
-- ⚡ Exclusive abilities
-- 📈 Progression system
-- 📜 Custom lore
-- ⚖️ Gameplay balance
+### Current Status
+
+- ⚔️ Legendary Weapons: **1**
+- 👑 Admin Weapons: **1**
+
+### Documentation includes
+
+- ⚡ Weapon Abilities
+- 📈 Progression System
+- 📜 Custom Lore
+- ⚖️ Balance Information
+- 🎯 Usage Guide
 
 ---
 
 # 🏰 Clans
 
-> 📖 Full documentation: `/docs/clans.md`
+> 📖 **Full Documentation:** [`/docs/clans.md`](docs/clans.md)
 
-Players can either create or join a clan.
+The clan system allows players to create small communities and cooperate throughout the season.
 
-Current limitations include:
+To ensure balance and maintain server performance, the system has several built-in limitations.
 
-- Maximum of **4 clans**
-- 🎨 Custom clan colors
-- 👥 Invite-only membership
-- 🛡️ Automatic clan roles
+### Current Features
 
-Future seasons may expand this system with additional mechanics.
+- 🏰 Maximum of **4 clans**
+- 🎨 Custom Clan Colors
+- 👥 Invite-Only Membership
+- 🛡️ Automatic Discord Role Creation
+
+### Planned Improvements
+
+Future seasons may introduce additional clan mechanics, progression systems and competitive features.
 
 ---
 
