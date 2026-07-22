@@ -1,21 +1,63 @@
-MIT License
+SpectroDinner Public Source License (SPSL)
+Version 1.0
 
-Copyright (c) 2026 Elmoderador
+Copyright © 2024–2026 SpectroDinner (SpectroDinner DEV)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright and License Notice
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software and its source code are made publicly available to promote learning, transparency and community collaboration.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The Software is provided under the SpectroDinner Public Source License (SPSL). By using, copying or modifying this Software, you agree to the terms of this License.
+
+1. Definitions
+
+"Software" refers to the source code, binaries, documentation and any associated files contained within this repository.
+
+"Derivative Work" means any modification, adaptation or extension of the Software.
+
+"Commercial Use" means any activity primarily intended for commercial advantage or monetary compensation.
+
+2. Permissions
+
+Subject to the terms of this License, you may:
+
+• View and study the source code.
+• Download and compile the Software.
+• Modify the Software for personal, educational or research purposes.
+• Create derivative works.
+• Share the original or modified source code, provided this License and all copyright notices remain intact.
+
+3. Restrictions
+
+Without prior written permission from SpectroDinner, you may NOT:
+
+• Sell the Software or any Derivative Work.
+• Charge money for downloading or accessing the Software.
+• Include the Software in any paid product or commercial service.
+• Use the Software for commercial hosting or commercial distribution.
+• Remove or modify copyright, attribution or license notices.
+• Claim authorship of the original Software.
+
+4. Attribution
+
+Any redistribution of the Software or a Derivative Work must include the following notice:
+
+Copyright © 2024–2026 SpectroDinner (SpectroDinner DEV)
+
+Licensed under the SpectroDinner Public Source License (SPSL).
+
+5. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+IN NO EVENT SHALL SPECTRODINNER OR ITS CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
+6. Termination
+
+Any violation of this License immediately terminates all rights granted under it.
+
+7. Commercial Licensing
+
+Commercial licensing may be available upon request.
+
+Please contact SpectroDinner through the official GitHub repository for licensing inquiries.
