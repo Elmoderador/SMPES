@@ -117,8 +117,6 @@ Los principales objetivos del proyecto son:
 
 ---
 
----
-
 # 📚 Continúa explorando
 
 La Wiki proporciona una visión general del proyecto.
