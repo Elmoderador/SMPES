@@ -117,6 +117,25 @@ Los principales objetivos del proyecto son:
 
 ---
 
-> 📖 Continúa leyendo la siguiente sección para conocer los sistemas principales que forman parte de SMPES.
+---
 
-➡️ **Siguiente sección:** *Sistemas principales*
+# 📚 Continúa explorando
+
+La Wiki proporciona una visión general del proyecto.
+
+Para conocer el funcionamiento detallado de cada sistema, consulta la documentación específica.
+
+| Documento | Descripción |
+|-----------|-------------|
+| ⚔️ [Clases](clases.md) | Roles, progresión, habilidades, ventajas y desventajas de cada clase. |
+| 🛡️ [Armas Legendarias](armas.md) | Armas únicas, habilidades especiales y progresión. |
+| 🏰 [Clanes](clanes.md) | Creación, gestión y funcionamiento del sistema de clanes. |
+| 🏗️ [Arquitectura](arquitectura.md) | Organización interna del proyecto y estructura del código. |
+
+---
+
+<div align="center">
+
+⬅️ **[Centro de documentación](README.md)** • **[Siguiente: Clases ➜](clases.md)**
+
+</div>
