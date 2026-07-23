@@ -134,6 +134,6 @@ Para conocer el funcionamiento detallado de cada sistema, consulta la documentac
 
 <div align="center">
 
-⬅️ **[Centro de documentación](README.md)** • **[Siguiente: Clases ➜](clases.md)**
+⬅️ **[Centro de documentación](readme.md)** • **[Siguiente: Clases ➜](clases.md)**
 
 </div>
